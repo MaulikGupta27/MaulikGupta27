@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulik Gupta</h1>
-<h3 align="center">A passionate Web Developer from India.</h3>
+<h3 align="center">I'm a passionate Web Developer from India.</h3>
 
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="coding" align="right" width="400">
 
