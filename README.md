@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maulik Gupta</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="coding" align="right" width="400">
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" alt="coding" align="right" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulikgupta27&label=Profile%20views&color=0e75b6&style=flat" alt="maulikgupta27" /> </p>
 
