@@ -60,14 +60,6 @@
 
 ---
 
-### 🚀 Highlight Projects
-
-- 📝 **[todo-app-mern](https://github.com/maulikgupta27/todo-app-mern)** — Responsive MERN Todo App with real-time CRUD and smooth UI.  
-- 🌐 **[Image-Search-Engine](https://github.com/maulikgupta27/Image-Search-Engine)** — React currency converter with live exchange rates and swapping feature.  
-- 🎮 **[Tic-Tac-Toe](https://github.com/maulikgupta27/Tic-Tac-Toe)** — Classic Tic-Tac-Toe game using JavaScript, HTML & CSS.
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
