@@ -1,27 +1,24 @@
 <h1 align="center">
-  Hi 👋, I'm 
-  <span>
-    Maulik Gupta
-  </span>
+  Hi 👋, I'm Maulik Gupta
 </h1>
 
 <h3 align="center">
   🚀 Full Stack Web Developer | MERN Stack Enthusiast | Passionate Coder 🚀
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=maulikgupta27&style=flat-square&color=blue" alt="Profile Views" />
 </h3>
 
 ---
 
 ### 🌟 About Me
 
-- 💻 I build powerful **MERN** stack web applications  
-- 🚀 I love turning creative ideas into reality through code  
+- 💻 I enjoy building web applications using the **MERN** stack  
+- 🔧 I like solving real-world problems through code  
+- ✨ Always eager to learn, grow, and explore new technologies  
+- 🤝 I value collaboration and being part of the developer community  
 - 🧩 Fun fact: I’m fascinated by the mysteries of the universe 🌌
 
 ---
 
-### 🔗 Connect with me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/guptamaulik27" target="_blank">
@@ -83,6 +80,10 @@
 
 ### 💬 Quote of the Day
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</p>
+<div align="center">
+  <blockquote style="border-left: 4px solid #f9826c; background-color: #2b2b2b; padding: 1rem 1.5rem; color: #d1d1d1; border-radius: 6px; max-width: 600px; font-style: italic;">
+    “Code is like humor. When you have to explain it, it’s bad.”  
+    <br />
+    <span style="display:block; text-align: right; margin-top: 0.5rem; font-weight: bold;">– Cory House</span>
+  </blockquote>
+</div>
