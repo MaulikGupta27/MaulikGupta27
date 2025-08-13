@@ -23,16 +23,16 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/maulikgupta27" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/maulikgupta27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/guptamaulik27" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/guptamaulik27" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:guptamaulik27@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:guptamaulik27@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/_maulikgupta_" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/_maulikgupta_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -79,7 +79,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maulikgupta27&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulikgupta27&theme=radical" alt="GitHub Streak" width="45%"/>
 </p>
 
 <p align="center">
