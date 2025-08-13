@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Web Developer | MERN Stack Enthusiast | Passionate Coder 🚀
+  💻 Full Stack MERN Developer | Open-Source Contributor | Aspiring Problem Solver
 </h3>
 
 ---
@@ -11,12 +11,9 @@
 ### 🌟 About Me
 
 - 💻 Full Stack Web Developer specializing in the **MERN** stack  
-- 🔧 I build clean, efficient, and scalable web applications  
-- 📚 Passionate about solving real-world problems with code  
-- 🌱 Currently learning advanced **DSA in C++** to strengthen problem-solving  
+- 🌱 Currently mastering **DSA in C++** to enhance problem-solving skills  
 - 🤝 Open-source contributor at **SSoC 2025** & **GSSoC 2025**  
-- 🚀 Always exploring new technologies and improving my craft  
-- 🌌 Fun fact: I’m deeply fascinated by space, astronomy, and the mysteries of the universe  
+- 🌌 Fascinated by space, astronomy, and the mysteries of the universe  
 
 ---
 
@@ -34,6 +31,9 @@
   </a>
   <a href="https://instagram.com/_maulikgupta_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/maulikgupta27/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
