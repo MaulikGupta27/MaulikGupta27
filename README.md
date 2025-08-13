@@ -10,27 +10,33 @@
 
 ### 🌟 About Me
 
-- 💻 I enjoy building web applications using the **MERN** stack  
-- 🔧 I like solving real-world problems through code  
-- ✨ Always eager to learn, grow, and explore new technologies  
-- 🤝 I value collaboration and being part of the developer community  
-- 🧩 Fun fact: I’m fascinated by the mysteries of the universe 🌌
+- 💻 Full Stack Web Developer specializing in the **MERN** stack  
+- 🔧 I build clean, efficient, and scalable web applications  
+- 📚 Passionate about solving real-world problems with code  
+- 🌱 Currently learning advanced **DSA in C++** to strengthen problem-solving  
+- 🤝 Open-source contributor at **SSoC 2025** & **GSSoC 2025**  
+- 🚀 Always exploring new technologies and improving my craft  
+- 🌌 Fun fact: I’m deeply fascinated by space, astronomy, and the mysteries of the universe  
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
+  <a href="https://github.com/maulikgupta27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://linkedin.com/in/guptamaulik27" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/maulikg27" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="mailto:guptamaulik27@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/_maulikgupta" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
 
 ---
 
@@ -53,6 +59,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logo=express&logoColor=white" alt="Multer"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
 </p>
 
 ---
@@ -75,6 +86,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maulikgupta27&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+![Maulik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maulikgupta27&theme=react-dark)
 
 ---
 
