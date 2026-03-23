@@ -1,18 +1,18 @@
 <h1 align="center">
-  Hi 👋, I'm Maulik Gupta
+  Hi, I'm Maulik Gupta
 </h1>
 
 <h3 align="center">
-  💻 Full Stack MERN Developer | Open-Source Contributor | Problem Solving in C++
+  Full Stack MERN Developer | Open-Source Contributor | Problem Solving in C++
 </h3>
 
 ---
 
-### 🌟 About Me
+### About Me
 
-- 💻 Full Stack Web Developer specializing in the **MERN** stack  
-- 🌱 Deep-diving into **DSA in C++** to architect efficient, high-performance solutions  
-- 🤝 Open-source contributor at **SSoC 2025** - 🌌 Fascinated by space, astronomy, and the mysteries of the universe  
+- Full Stack Web Developer specializing in the **MERN** stack  
+- Deep-diving into **DSA in C++** to architect efficient, high-performance solutions  
+- Open-source contributor at **SSoC 2025** - 🌌 Fascinated by space, astronomy, and the mysteries of the universe  
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maulikgupta27&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maulikgupta27&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="45%"/>
@@ -76,13 +76,13 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+### GitHub Activity Graph
 
 ![Maulik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maulikgupta27&theme=react-dark)
 
 ---
 
-### 💬 Quote of the Day
+### Quote of the Day
 
 <div align="center">
   <blockquote style="border-left: 4px solid #f9826c; background-color: #2b2b2b; padding: 1rem 1.5rem; color: #d1d1d1; border-radius: 6px; max-width: 600px; font-style: italic;">
