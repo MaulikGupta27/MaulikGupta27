@@ -12,7 +12,7 @@
 
 - Full Stack Web Developer specializing in the **MERN** stack  
 - Deep-diving into **DSA in C++** to architect efficient, high-performance solutions  
-- Open-source contributor at **SSoC 2025** - Fascinated by space, astronomy, and the mysteries of the universe  
+- Open-source contributor at **SSoC 2025**
 
 ---
 
