@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack MERN Developer | Open-Source Contributor | Problem Solving in C++
+  Full Stack MERN Developer | Open-Source Contributor
 </h3>
 
 ---
@@ -11,17 +11,14 @@
 ### About Me
 
 - Full Stack Web Developer specializing in the **MERN** stack  
-- Deep-diving into **DSA in C++** to architect efficient, high-performance solutions  
 - Open-source contributor at **SSoC 2025**
+- Deep-diving into **DSA in C++**
 
 ---
 
 ### Connect with Me
 
 <p align="center">
-  <a href="https://github.com/maulikgupta27" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://linkedin.com/in/guptamaulik27" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
