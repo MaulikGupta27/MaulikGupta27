@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack MERN Developer | Open-Source Enthusiast</strong>
+  <strong>Full Stack MERN Developer | Open-Source Contributor</strong>
 </p>
 
 <p align="center">
